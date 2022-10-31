@@ -1,0 +1,12 @@
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\bin\Debug\girişekranı.exe.config
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\bin\Debug\girişekranı.exe
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\bin\Debug\girişekranı.pdb
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\obj\Debug\girişekranı.csproj.AssemblyReference.cache
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\obj\Debug\girişekranı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\obj\Debug\girişekranı.Form1.resources
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\obj\Debug\girişekranı.Properties.Resources.resources
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\obj\Debug\girişekranı.csproj.GenerateResource.cache
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\obj\Debug\girişekranı.csproj.CoreCompileInputs.cache
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\obj\Debug\girişekranı.exe
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\obj\Debug\girişekranı.pdb
+C:\Users\Ulaş Ataş\Desktop\projeler\C#\girişekranı\girişekranı\obj\Debug\girişekranı.Form2.resources
